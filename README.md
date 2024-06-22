@@ -9,7 +9,7 @@ Response:
     "greeting": "Hello, Mark!"
 }
 
-** How to submit **
+* How to submit
 -Host your API on a some free hosting service.
 
 ![image](https://github.com/deolla/server/assets/122826169/03f33313-de0a-4742-bcfd-32e7a6421f0b)
